@@ -1,2 +1,2 @@
 # MultiAgentSystems
-Simulates a group agents moving to some target formation
+Simulates a group of many agents moving to some target formation
